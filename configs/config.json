@@ -1,0 +1,17 @@
+{
+    "JENKINS":{
+        "user":"",
+        "psw":"",
+        "url_conn":"",
+        "job":"",
+        "token":""
+    },
+    "ELASTICSEARCH":{
+        "host":""
+    },
+    "PROGRAM":{
+        "logs":1,
+        "run":1,
+        "mod":30
+    }
+}
